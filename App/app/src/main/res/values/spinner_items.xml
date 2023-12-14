@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_items">
+        <item>XX mL</item>
+        <item>20 mL</item>
+        <item>10 mL</item>
+        <item>5 mL</item>
+        <item>3 mL</item>
+    </string-array>
+</resources>

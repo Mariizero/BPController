@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BPC</string>
+    <string name="AmostraRat">Sample</string>
+    <string name="Conectar">Arduino Connect</string>
+    <string name="Conectar2">Connected</string>
+    <string name="Desconect">Arduino Disconnect</string>
+    <string name="Desconect2">Disconnected</string>
+    <string name="BtnInicio">Start</string>
+    <string name="Tempcauda">Tail temperature (ºC)</string>
+    <string name="Tempcauda1">Desired temperature (ºC)</string>
+    <string name="SistolicP">Systolic Pressure</string>
+    <string name="DiastolicP">Diastolic Pressure</string>
+    <string name="UseSyring">Used Syringe</string>
+    <string name="Flowrate">Flow Rate (mL/h)</string>
+    <string name="OFF1">OFF</string>
+    <string name="ON1">ON</string>
+    <string name="START1">START</string>
+    <string name="START2">MEASURE</string>
+    <string name="BACK1">BACK</string>
+    <string name="PAUSE1">PAUSE</string>
+    <string name="SeringaSlec">Select a syringe</string>
+    <string name="Numero1">21</string>
+    <string name="Numero2">18.2</string>
+    <string name="Tempshow">25</string>
+    <string name="PressSi">120</string>
+    <string name="PressDi">80</string>
+    <string name="PressReal">00.00</string>
+
+
+
+
+    /** Aqui são letras */
+
+    <dimen name="font_size4">16sp</dimen>
+    <dimen name="font_size3">20sp</dimen>
+    <dimen name="font_size2">25sp</dimen>
+
+    /** Aqui são imagens */
+
+    <string name="app_image1">Titulo App</string>
+    <string name="lavita">LavitaImag</string>
+    <string name="npt">NPTImag</string>
+    <string name="umc">UMCImag</string>
+    <string name="Logo">ratimg</string>
+
+
+</resources>

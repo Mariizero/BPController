@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BPC</string>
+    <string name="AmostraRat">Amostra</string>
+    <string name="Conectar">Arduino Conectado</string>
+    <string name="Conectar2">Conectado</string>
+    <string name="Desconect">Arduino Desconectado</string>
+    <string name="Desconect2">Desconectado</string>
+    <string name="BtnInicio">Começar</string>
+    <string name="Tempcauda">Temperatura da cauda (°C)</string>
+    <string name="Tempcauda1">Temperatura desejada (°C)</string>
+    <string name="SistolicP">Pressão Sistolica</string>
+    <string name="DiastolicP">Pressão Diastolica</string>
+    <string name="UseSyring">Seringa usada</string>
+    <string name="Flowrate">Taxa de infusão (mL/h)</string>
+    <string name="OFF1">OFF</string>
+    <string name="ON1">ON</string>
+    <string name="START1">COMEÇAR</string>
+    <string name="START2">MEDIR</string>
+    <string name="BACK1">VOLTAR</string>
+    <string name="PAUSE1">PAUSA</string>
+    <string name="SeringaSlec">Selecione uma seringa</string>
+    <string name="Numero1">21</string>
+    <string name="Numero2">18.2</string>
+    <string name="Tempshow">25</string>
+    <string name="PressSi">120</string>
+    <string name="PressDi">80</string>
+    <string name="PressReal">00.00</string>
+
+
+
+    <string name="app_image1">Titulo App</string>
+    <string name="lavita">LavitaImag</string>
+    <string name="npt">NPTImag</string>
+    <string name="umc">UMCImag</string>
+    <string name="Logo">ratimg</string>
+
+
+</resources>
